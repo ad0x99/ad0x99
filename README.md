@@ -3,21 +3,21 @@
 </p>
 
 <h1 align="center">Hi, I'm AD<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">App Dev/Sec Enthusiast</h3>
+<h3 font-size="18" align="center">App Dev/Sec Enthusiast</h3>
 
-<h3 font-size="20" align="center">🌱 I’m currently a Software Engineer</h3>
-<h3 font-size="20" align="center">👯 I’m looking to collaborate on Node.js</h3>
-<h3 font-size="20" align="center">🤝 I’m focusing on Backend Development</h3>
-<h3 font-size="20" align="center">⚡ Fun fact I'm a Human</h3>
+<h3 font-size="15" align="center">🌱 I’m currently a Software Engineer</h3>
+<h3 font-size="15" align="center">👯 I’m looking to collaborate on Node.js</h3>
+<h3 font-size="15" align="center">🤝 I’m focusing on Backend Development</h3>
+<h3 font-size="15" align="center">⚡ Fun fact I'm a Human</h3>
 
 ---
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
-</br>
+<!-- <h2 align="center"><u><b>Knowledge Base</b></u></h2>
+</br> -->
 
-<p align="center">
+<!-- <p align="center">
   <img style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-</p>
+</p> -->
 
 <h3 align="center">Languages</h3>
 <p align="center">

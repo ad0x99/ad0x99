@@ -1,13 +1,5 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
-
-<h1 align="center">Hi, I'm AD<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h4 font-size="18" align="center">App Dev/Sec Enthusiast</h4>
-
-<h4 font-size="15" align="center">🌱 I’m currently a Software Engineer</h4>
-<h4 font-size="15" align="center">👯 I’m looking to collaborate on Node.js</h4>
-<h4 font-size="15" align="center">🤝 I’m focusing on Backend Development</h4>
+<h2 align="center">Hi there, I'm AD</h2>
+<h4 font-size="18" align="center">I'm a App Dev/Sec Enthusiast, and currently working as a Backend Engineer</h4>
 
 ---
 
@@ -206,10 +198,10 @@
 
 </div>
 
----
-
+<!-- --- -->
+<!-- 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">!!!Peace!!!</h2>
-</div>
+</div> -->
 
----
+<!-- --- -->

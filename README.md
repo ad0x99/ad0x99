@@ -77,7 +77,7 @@
 </p> -->
 
 <!-- <h3 align="center">Backend</h3> -->
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -91,7 +91,7 @@
   <!-- <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
   </a> -->
-</p>
+<!-- </p> -->
 
 <!-- <h3 align="center">Database</h3> -->
 <!-- <p align="center"> -->
@@ -168,7 +168,7 @@
   </a>
 </p>
 
----
+<!-- --- -->
 
 <!-- <h3 align="center">Connect with me</h3>
 

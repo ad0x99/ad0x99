@@ -34,6 +34,22 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="PostgreSQL"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"/> 
+  </a> 
+  <a href="https://sequelize.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
+      alt="Sequelize"/> 
+  </a> 
+  <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
+      alt="Jest"/> 
+  </a> 
   <!-- <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -101,12 +117,12 @@
   </a>  -->
 <!-- </p> -->
 
-<!-- <h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Clouds</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
+<!--   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://netlify.com/" target="_blank">
@@ -115,8 +131,8 @@
   <a href="https://heroku.com" target="_blank">
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/>
-  </a>
-</p> -->
+  </a> -->
+</p>
 
 <!-- <h3 align="center">Testing</h3>
 <p align="center">
@@ -138,10 +154,10 @@
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
+<!--   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
-  </a>
+  </a> -->
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>

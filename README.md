@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm AD</h2>
-<h4 font-size="18" align="center">App Dev/Sec Enthusiast | Software Engineer</h4>
+<h4 font-size="18" align="center">Software Engineer</h4>
 
 ---
 

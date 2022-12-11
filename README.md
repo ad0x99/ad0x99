@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm AD</h2>
+<h2 align="center">Hi there, I'm Duc (Thomas)</h2>
 <h4 font-size="18" align="center">Software Engineer</h4>
 
 ---

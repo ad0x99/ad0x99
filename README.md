@@ -228,6 +228,8 @@
 
 </div>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ad0x99/ad0x99/blob/main/devcard.svg" width="400" alt="Thomas's Dev Card"/></a>
+
 <!-- --- -->
 <!--
 <div align="center">

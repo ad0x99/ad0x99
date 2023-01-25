@@ -61,17 +61,8 @@
 </a>
 <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a>
 
-<h3>Connect</h3>
-<div style="margin-top:10px">
-  <div>
-    <a href="https://twitter.com/ad0x99" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="ad0x99"/>
-    </a>
-  </div>
-</div>
-
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+<h2 align="center" style="margin: 5px 10px;">Github stats</h2>
 
 [![](https://github-readme-stats.vercel.app/api?username=ad0x99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ad0x99)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ad0x99&theme=material-palenight)](https://github.com/ad0x99)

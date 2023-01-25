@@ -1,18 +1,32 @@
-<h2 align="center">Hi there, I'm Duc (Thomas) - Software Engineer</h2>
+# Duc (Thomas)
 
-<h3 align="center">Tech Stack</h3>
+### Software Engineer
+
+<a aligh="left" href="https://https://ad0x99.gitbook.io/ad0x99/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/ad0x99" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>
+
+⚐ Based in Vietnam
+
+ϟ Currently building something cool
+
+## Skills
+
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
+
+   <!-- <h2 align="center">Hi there, I'm Duc (Thomas) - Software Engineer</h2> -->
+
+<!-- <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+      alt="javascript"/>
   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank"> 
+   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
-  <a href="https://nodejs.org" target="_blank"> 
+  <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
+      alt="nodejs"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
@@ -20,26 +34,26 @@
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank"> 
+      alt="mongodb"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="PostgreSQL"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
+      alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="MySQL"/> 
-  </a> 
-  <a href="https://sequelize.org/" target="_blank"> 
+      alt="MySQL"/>
+  </a>
+  <a href="https://sequelize.org/" target="_blank">
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
-      alt="Sequelize"/> 
-  </a> 
-  <a href="https://jestjs.io/" target="_blank"> 
+      alt="Sequelize"/>
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
-      alt="Jest"/> 
-  </a> 
+      alt="Jest"/>
+  </a>  -->
   <!-- <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -48,30 +62,30 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a> -->
-    <!-- <a href="https://reactjs.org/" target="_blank">
+  <!-- <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/>
   </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
   </a> -->
-  <a href="https://aws.amazon.com/" target="_blank">
+  <!-- <a href="https://aws.amazon.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
-  </a>
+  </a> -->
   <!-- <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
-</p>
+</p> -->
 
-<h3 align="center">Clouds</h3>
+<!-- <h3 align="center">Clouds</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  </a>
+  </a> -->
 
   <!-- </a>
      <a href="https://kubernetes.io" target="_blank"> 
@@ -105,6 +119,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=ad0x99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ad0x99)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ad0x99&theme=material-palenight)](https://github.com/ad0x99)
-<a href="https://app.daily.dev/thomas0x99"><img src="https://github.com/ad0x99/ad0x99/blob/main/devcard.svg" width="400" alt="Thomas's Dev Card"/></a>
+<a href="https://app.daily.dev/thomas0x99"><img src="https://github.com/ad0x99/ad0x99/blob/main/devcard.svg" width="300" alt="Thomas's Dev Card"/></a>
 
 </div>

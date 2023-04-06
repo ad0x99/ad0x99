@@ -1,5 +1,3 @@
-# Duc (Thomas)
-
 ### Hi there 👋
 
 - 🔭 I'm a Software Engineer

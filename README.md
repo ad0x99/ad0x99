@@ -1,13 +1,9 @@
 # Duc (Thomas)
 
-### Software Engineer
+### Hi there 👋
 
-<a aligh="left" href="https://www.ad0x99.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
-<a aligh="left" href="https://twitter.com/ad0x99" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>
-
-⚐ Based in Planet Earth
-
-ϟ Currently building something cool
+- 🔭 I'm a Software Engineer
+- 🌱 I’m continuously learning new things and always open to work on any interesting projects 
 
 ## Skills
 
@@ -63,10 +59,10 @@
 <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a>
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats</h2>
+<!-- <h2 align="center" style="margin: 5px 10px;">Github stats</h2> -->
 
-[![](https://github-readme-stats.vercel.app/api?username=ad0x99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ad0x99)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ad0x99&theme=material-palenight)](https://github.com/ad0x99)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=ad0x99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ad0x99)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ad0x99&theme=material-palenight)](https://github.com/ad0x99) -->
 <!-- <a href="https://app.daily.dev/thomas0x99"><img src="https://github.com/ad0x99/ad0x99/blob/main/devcard.svg" width="350" alt="Thomas's Dev Card"/></a> -->
 
 </div>

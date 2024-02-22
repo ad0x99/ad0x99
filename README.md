@@ -61,6 +61,6 @@
 
 <!-- [![](https://github-readme-stats.vercel.app/api?username=ad0x99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ad0x99)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ad0x99&theme=material-palenight)](https://github.com/ad0x99) -->
-<a href="https://app.daily.dev/ad0x99"><img src="https://api.daily.dev/devcards/v2/OXGdyfhkDXbnsbAkLrnlp.png?type=wide&r=sju" width="652" alt="Thomas's Dev Card"/></a>
+<a href="https://app.daily.dev/ad0x99"><img src="./devcard.png" width="652" alt="Thomas's Dev Card"/></a>
 
 </div>

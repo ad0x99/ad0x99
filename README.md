@@ -59,8 +59,8 @@
 <div align="center">
 <!-- <h2 align="center" style="margin: 5px 10px;">Github stats</h2> -->
 
-[![](https://github-readme-stats.vercel.app/api?username=ad0x99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ad0x99)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ad0x99&theme=material-palenight)](https://github.com/ad0x99)
-<a href="https://app.daily.dev/ad0x99"><img src="./devcard.png" width="1000" alt="Thomas's Dev Card"/></a>
+<!-- [![](https://github-readme-stats.vercel.app/api?username=ad0x99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ad0x99) -->
+<!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=ad0x99&theme=material-palenight)](https://github.com/ad0x99)
+<a href="https://app.daily.dev/ad0x99"><img src="./devcard.png" width="1000" alt="Thomas's Dev Card"/></a> -->
 
 </div>
